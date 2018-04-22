@@ -1,1 +1,2 @@
 Task for the project manager
+Inform the project participants about the deadline.
